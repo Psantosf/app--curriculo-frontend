@@ -1,0 +1,2 @@
+# app--curriculo-frontend
+Curriculo
