@@ -1,4 +1,4 @@
 # app--curriculo-frontend
 Curriculo
 
-Criar um modelo de curriculo.
+Criar um novo modelo de curriculo.
